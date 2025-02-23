@@ -1,5 +1,4 @@
 # Automate_Hubspot_Auth
-Here is the answer to your query in English:
 
 ---
 
