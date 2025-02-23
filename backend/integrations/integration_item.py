@@ -1,7 +1,8 @@
 from datetime import datetime
 from typing import Optional, List
+# from pydantic import BaseModel # This could be added for futher improvements
 
-class IntegrationItem:
+class IntegrationItem():
     def __init__(
         self,
         id: Optional[str] = None,
